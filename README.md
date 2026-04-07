@@ -21,17 +21,14 @@ El diseño se realizó de acuerdo al modelo que nos fue mostrado en clase. Se de
 
 Tuvimos en cuenta una toleracia de aproximadamente 3mm en la punta, y añadimos un resorte en el interior de la herramienta que empujara el marcador hacia afuera.
 
-En el primer modelo que desarrollamos, la rosca no funcionaba muy bien debido a las tolerancias utilizadas y haciendo la calibración del robot en la primera práctica libre la rompimos por no utilizar la sensibilidad adecuada durante el proceso, por lo que encontramos una oportunidad de mejora al rediseñarla haciendola más resistente y con mejor ajuste.
-
-Foto de la primera herramienta:
-
-![Primera Herramienta](docs/images/evidencias/herramienta1.jpg)
+En el primer modelo que desarrollamos, la rosca no funcionaba muy bien debido a las tolerancias utilizadas por lo que fue necesario rediseñarla haciendola más resistente y con mejor ajuste.
 
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
-![Screenshot Herramienta](docs/screenshots/screenshotherramienta.jpg)
+![Screenshot Herramienta](images/herramientafusion.png)
 
-Plano de la herramienta que también se encuentran en este repositorio con los demás planos (docs\herramienta)
-![Screenshot Plano Herramienta](docs/screenshots/plano_herramienta.png)
+Plano de la herramienta que también se encuentran en este repositorio
+![Screenshot Plano Herramienta](planos/planocuerpoherramienta.png)
+![Screenshot Plano Herramienta](planos/planotapaherramienta.png)
 
 Foto de la herramienta montada en el robot.
 ![Herramienta Montada](docs/images/evidencias/herramienta_montada.jpg)
