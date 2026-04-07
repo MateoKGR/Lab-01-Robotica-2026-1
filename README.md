@@ -46,7 +46,7 @@ Durante la calibración del workobject, tuvimos un pequeño percanse con la herr
 
 
 ## Simulación
-Respecto al manejo de Robot Studio, tuvimos que comenzar por importar los modelos cad tanto de la herramienta (es decir nuestro tool)como del workobject (el pastel). Configuramos nuestro tool dandole la orientacion al eje coordenado y ubicandolo en nuestro robot. Para el Work Object tambien es importante mencionar que grabamos nuestros nombres y el logo que ibamos a recrear en Robot Studio en Inventor para luego ubicar los Targets de manera más fácil Como se ve en la siguiente imagen.
+Respecto al manejo de Robot Studio, tuvimos que comenzar por importar los modelos CAD tanto de la herramienta (es decir nuestro tool) como del workobject (el pastel). Configuramos nuestro tool dandole la orientacion al eje coordenado y ubicandolo en nuestro robot. Para el Work Object tambien es importante mencionar que grabamos nuestros nombres y el logo que ibamos a recrear en Robot Studio en Inventor para luego ubicar los Targets de manera más fácil Como se ve en la siguiente imagen.
 
 ![Work Object](docs/screenshots/workobject.png)
 
