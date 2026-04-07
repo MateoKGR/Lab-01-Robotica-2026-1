@@ -19,7 +19,7 @@ Indice:
 En primera instancia, para el desarrollo del laboratorio tuvimos que realizar el diseño de la herramienta que ibamos a utilizar.
 El diseño se realizó de acuerdo al modelo que nos fue mostrado en clase. Se desarrolló en inventor teniendo en cuenta toleracias para la rosca y el marcador que va adentro. 
 
-Tuvimos en cuenta una toleracia de aproximadamente 3mm en la punta, y añadimos un resorte en el interior de la herramienta que empujara el marcador hacia afuera.
+Tuvimos en cuenta una toleracia de aproximadamente 10mm en la punta, y añadimos un resorte en el interior de la herramienta que empujara el marcador hacia afuera.
 
 En el primer modelo que desarrollamos, la rosca no funcionaba muy bien debido a las tolerancias utilizadas por lo que fue necesario rediseñarla haciendola más resistente y con mejor ajuste.
 
@@ -35,11 +35,15 @@ Foto de la herramienta montada en el robot.
 ![Herramienta Montada](images/herramientarobot.jpeg)
 
 ## Calibración
-El proceso de calibración del robot con la herramienta nos tomó varias sesiones de práctica libre, inicialmente, nos daba un error de aproximadamente 30 o 40 milimetros, lo cual es demasiado teniendo en cuenta la toleracia de nuestra herramienta, sin embargo, en la tercera sesión ya con la práctica adquirida logramos tener un error de 2.44mm aproximadamente, lo cual es acorde a nuestra toleracia física de 3mm de nuestra herramienta mencionada en la sección anterior. 
+El proceso de calibración del robot con la herramienta nos tomó varias sesiones de práctica libre, inicialmente, nos daba un error de aproximadamente 15 o 20 milimetros, lo cual es demasiado teniendo en cuenta la toleracia de nuestra herramienta, sin embargo, en la tercera sesión ya con la práctica adquirida logramos tener un error de 7.9mm aproximadamente, lo cual es acorde a nuestra toleracia física de 10mm de nuestra herramienta mencionada en la sección anterior. 
 
-A continuación la foto de la herramienta Tool_JM en la pantalla del Flex Pendant. 
-![Herramienta Tool_JM](docs/images/toolflexpendant/tool_jm.jpg)
-![Herramienta Tool_JM](docs/images/toolflexpendant/tool_jm2.jpg)
+A continuación la foto de la herramienta merequetengue_v2 en la pantalla del Flex Pendant. 
+![Herramienta merequetengue_v2](images/merequetengue.jpeg)
+
+Durante la calibración del workobject, tuvimos un pequeño percanse con la herramienta, pues nos quedó mal la calibración y rompimos la herramienta. A continuación la prueba de la herramienta rota:
+
+![Herramienta rota](images/herramientarota.jpeg)
+
 
 ## Simulación
 Respecto al manejo de Robot Studio, tuvimos que comenzar por importar los modelos cad tanto de la herramienta (es decir nuestro tool)como del workobject (el pastel). Configuramos nuestro tool dandole la orientacion al eje coordenado y ubicandolo en nuestro robot. Para el Work Object tambien es importante mencionar que grabamos nuestros nombres y el logo que ibamos a recrear en Robot Studio en Inventor para luego ubicar los Targets de manera más fácil Como se ve en la siguiente imagen.
