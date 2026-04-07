@@ -31,6 +31,7 @@ Plano de la herramienta que también se encuentran en este repositorio
 ![Screenshot Plano Herramienta](planos/planotapaherramienta.png)
 
 Foto de la herramienta montada en el robot.
+
 ![Herramienta Montada](images/herramientarobot.jpeg)
 
 ## Calibración
