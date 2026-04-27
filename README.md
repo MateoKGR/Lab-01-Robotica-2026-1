@@ -46,12 +46,39 @@ Durante la calibración del workobject, tuvimos un pequeño percanse con la herr
 
 
 ## Simulación
-Respecto al manejo de Robot Studio, tuvimos que comenzar por importar los modelos CAD tanto de la herramienta (es decir nuestro tool) como del workobject (el pastel). Configuramos nuestro tool dandole la orientacion al eje coordenado y ubicandolo en nuestro robot. Para el Work Object tambien es importante mencionar que grabamos nuestros nombres y el logo que ibamos a recrear en Robot Studio en Inventor para luego ubicar los Targets de manera más fácil Como se ve en la siguiente imagen.
+Respecto al manejo de Robot Studio, tuvimos que comenzar por modelar para despues importar los modelos CAD tanto de la herramienta (es decir nuestro tool) como del Workobject (el pastel) en inventor, utilimos una caja de madera de 20 cm de ancho, 20cm de largo y 9 cm de alto con un cristal en donde se iban grabar los nombres y logo con el marcador, Se muestra a continuacion nuestro workobject en fisico : 
+
+![Caja_Fisica](Caja_Física.jpeg)
+
+Es importante mencionar que diseñamos nuestros nombres y el logo con curvas relativamente sencillas tambien en el sofware Inventor para despues recrearlas en Robot Studio , Nos guiamos por el primer nombre de cada integrando del grupo y de logo un personaje principal de un videojuego famoso (Sans) como vemos a continuación:
+
+![DiseñoLogoYNombres](images/DiseñoLogoYNombres.jpeg)
+
+Dando Como Resultado final el siguiente WorkObject Listo para exportar a RobotStudio en formato .sat sugerido por el profesor para facilitar su manipulación :
+
+![ResultadoFinal](images/ResultadoFinal.jpeg)
+
+Ya en el RobotEstudio se observa de la siguiente manera tanto la herramienta como nuestro WorkObject ademas de importar una banda para hacer la simulación mas coincidente con la realidad:
+
+![Work Object](images/Herramienta.jpeg)
 
 ![Work Object](images/workobject.png)
 
-Una vez configurada la herramienta y el posicionado el workobject en el lugar que debería estar según el espacio de trabajo en el laboratorio en la banda transportadora, se comenazaron a crear los Targets, es decir los puntos que debían guiar al robot. 
-Configurados los Targets, se crearon los Paths entre los Targets, es decir, los caminos que debía seguir el robot para hacer el dibujo. Aquí es importante resaltar la importancia de crear bien los Targets, pues se debía alzar el brazo cada vez que se deseaba alcanzar una posición diferente dentro del workobject, de otra manera se pintarían lineas indeseadas. También se tuvo que utilizar diferentes comandos para hacer las lineas curvas o circulos, la instrucción MoveJ realiza desplazamientos rápidos por trayectorias curvas entre puntos mediante el movimiento coordinado de las articulaciones; MoveL mueve la herramienta en línea recta garantizando precisión en trayectorias como líneas o figuras; y MoveC permite describir trayectorias circulares o arcos suaves entre dos posiciones intermedias.
+![Work Object](images/Banda.jpeg)
+
+Configuramos nuestro tool dandole la orientacion al eje coordenado y acomplandolo en nuestro robot. Para el Work Object se ubico en la posicion dada en la vida real en sus cordenadas cortesianas y sus angulos respectivos al crearlo con el robot fisico para que tanto la simulación como la realidad estuvieran entrelazadas y no tener problemas de ubicación en el espacio, se presentaron algunos problemas ya que la banda nop esta del todo recta y se presentan inclinaciones que no son muy ligeras pero que de igual forma son importantes para ubicarla en el espacio en la posición real,Se muestra acontinuacion la ubicación de todos los objetos en el espacio de simulacion:
+
+![Work Object](images/UbicaciónTodos.jpeg)
+
+
+Una vez configurada la herramienta y el posicionado el workobject en el lugar que debería estar según el espacio de trabajo en el laboratorio en la banda transportadora, se comenazaron a crear los Targets, es decir los puntos que debían guiar al robot. Se crean  ubicandolos con las herramientas del sofware de manera más fácil,Se crea el Target_Home y un Target para la posición de mantenimiento Ademas para acercarse a la caja se creo un punto intermedio ya que el WorkObject tiene una forma irregular entre el tope de la madera y el vidrio que podria romper la herramienta asi que se hace crea un punto de aproximacion para evitar esto, al igual que se sube el marcador en cada cambio de letra para hacer notar la separación de esta , se tuvieron dificultades en el tema del logo ya que contaba con muchas curvas, igualmente el desarrollo fue exitoso creando 216 Targets que se presenta en en la siguiente imagen.
+
+![caminos.png creados](images/caminos.png)
+
+
+
+
+Configurados los Targets, se crearon los Paths entre los Targets, es decir, los caminos que debía seguir el robot para hacer el dibujo. Aquí es importante resaltar la importancia de crear bien los Targets, pues se debía alzar el brazo cada vez que se deseaba alcanzar una posición diferente dentro del workobject, de otra manera se pintarían lineas indeseadas. También se tuvo que utilizar diferentes comandos para hacer las lineas curvas o circulos, la instrucción MoveJ realiza desplazamientos rápidos por trayectorias curvas entre puntos mediante el movimiento coordinado de las articulaciones; MoveL mueve la herramienta en línea recta garantizando precisión en trayectorias como líneas o figuras; y MoveC permite describir trayectorias circulares o arcos suaves entre dos posiciones intermedias, Se creo un path diferente para cada letra y para cada detalle del logo para simplificar la solución de errores ademas se creo un borde en el pastel para asemejar el dibujo a un cuadro, despues se comentaria esta linea ya que seria muy riesgoso para la herramienta debido a su cercania con difernetes topes del WorkObject, a continuacón se presentas los diferentes pathas con la poscion de home y mantenimiento : 
 
 ![Targets & Paths creados](images/paths.png)
 
