@@ -87,11 +87,7 @@ En la imagen se observan todos los sistemas coordenados (orientados en la misma 
 Una vez hechos los Paths y los Targets se sincronizó la estación con el código para poder ajustar el código de rapid de manera que la simulación sirviera. Importante tener en cuenta que estuvieran creados tanto los Target como los Paths en el código. (El código se encuentra adjunto en este repositorio en la ruta code\rapid\lab01_main.mod)
 
 A continuación el diagrama de flujo del código final.
-![Diagrama de flujo](docs/images/diagrama/diagrama_flujo.jpg)
-
-
-
-![Diagrama de flujo](images/planoplanta.png)
+![Diagrama de flujo](images/Diagrama/diagramadeflujo.png)
 
 A continuación la simulación en Robot Studio.
 [Descargar video de simulación](videos/video_simulacion.mp4)
