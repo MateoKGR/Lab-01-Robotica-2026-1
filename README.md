@@ -41,8 +41,7 @@ A continuación la foto de la herramienta merequetengue_v2 en la pantalla del Fl
 ![Herramienta merequetengue_v2](images/merequetengue.jpeg)
 
 Durante la calibración del workobject, tuvimos un pequeño percanse con la herramienta, pues nos quedó mal la calibración y rompimos la herramienta. A continuación la prueba de la herramienta rota:
-
-![Herramienta rota](images/herramientarota.jpeg)
+![Herramienta rota](images/herramientarota.png)
 
 
 ## Simulación
