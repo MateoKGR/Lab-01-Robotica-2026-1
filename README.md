@@ -90,8 +90,9 @@ A continuación el diagrama de flujo del código final.
 ![Diagrama de flujo](images/Diagrama/diagramadeflujo.png)
 
 A continuación la simulación en Robot Studio.
-[Descargar video de simulación](videos/video_simulacion.mp4)
-
+[Descargar video de simulación](videos/videosimulacion.mp4)
+Hacer click en la imagen para ver el video
+[![Ver video de implementación final](images/videosimu.png)](https://drive.google.com/file/d/1iKCL7Am2xYt6DjFr-hjv4zW74DocM8NU/view?usp=sharing)
 
 ## Salidas y entradas digitales
 Existen diferencias clave entre la simulación y la vida real. En la vida real, la entrada digital acciona directamente un circuito de control que activa el motor de la banda transportadora. En cambio, en la simulación, mediante el uso de smart components, se genera el movimiento de la caja, lo que nos da la sensación de que esta se está desplazando.
