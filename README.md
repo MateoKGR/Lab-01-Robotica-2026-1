@@ -130,7 +130,7 @@ Después de iterar varias veces, logramos ajustar con precision el robot con el 
 
 
 Por último el video final de la implementación completa
-
+[Descargar video de implementación](videos/demostracionfinal.mp4)
 Hacer click en la imagen para ver el video
 [![Ver video de implementación final](images/miniaturavideofinal.png)](https://drive.google.com/file/d/1kKiyHdp7_Y21EuEeG2vPirhTzsbhvJkJ/view?usp=sharing)
 
