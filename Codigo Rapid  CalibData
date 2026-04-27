@@ -1,0 +1,4 @@
+MODULE CalibData
+    PERS tooldata HerramientaFinal:=[TRUE,[[38.922,1.917,136.262],[0.965925826,0,0.258819045,0]],[1,[0,0,1],[1,0,0,0],0,0,0]];
+    TASK PERS wobjdata Workobject_Final:=[FALSE,TRUE,"",[[-15,15,109],[1,0,0,0]],[[-639.879,-187.642,280.636],[0.0124164,0.999433,-0.000218714,-0.0312972]]]; #Cordenadas Tomadas De La Realidad
+ENDMODULE
