@@ -98,9 +98,30 @@ Existen diferencias clave entre la simulación y la vida real. En la vida real, 
 
 Por otro lado, es evidente que en la vida real las entradas están físicamente conectadas al controlador mediante pulsadores, mientras que en la simulación debemos crear dichas entradas y salidas de forma virtual. Además, es a través del I/O Simulator que se obtienen y gestionan esas señales.
 
-DI_01 inicial la secuencia de dibujo y DI_02 dirige a mantenimiento.
-![Salidas y entradas](docs/screenshots/salidasentradas1.jpg)
-![Salidas y entradas](docs/screenshots/salidasentradas2.jpg)
+Para la simulación se realizaron Dos SmartComponents para simular como la banda se atrasa y como se adelanta estas como la banda real dependian de 2 condiciones en sus entradas que era el Forward y el backward de la banda , en la vida real para hacer avanzar la banda se necesitaba el Forward  en 1 y el Backward en 0 , mientras que para hacerla atrasar se necesitaban los dos en 1 esto se logro con un movimiento lineal de los Dos SmartsComponents en direcciones diferentes con una velocidad de 160 m/s , cada uno era ativado con compuestas ands en donde en el primer caso era simp,emnete las 2 entradas sin modificar y en el otro caso se utilizo una compuerta not para negar la entrada del bakcWard , Acontinuacion se presentan todas las configuraciones Usadas : 
+
+Dos SmartsComponents : 
+
+[Smart](images/Smart.jpeg)
+
+Entrelazamiento De señales :
+
+[Smart](images/Entrelazamiento.jpeg)
+
+Forward :
+[PropiedadesF](images/PropiedadesF.jpeg)
+
+[Ford.jpeg](images/Ford.jpeg)
+
+BackWard :
+
+
+
+[PropiedadesB](images/PropiedadesB.jpeg)
+
+[Back](images/PropiedadesF.jpeg)
+
+
 
 ## Implementación
 Respecto a la implementación, tuvimos que comunicarnos con el controlador a través de un cable UTP para poder utilizar nuestra rutina, en principio, el reto fue lograr calibrar en el espacio de trabajo el WorkObject para que el robot fuera preciso en llegar y hacer la figura en nuestro WorkObject de la vida real, el cual, como el modelo CAD que hicimos, era una caja de 20x20x5cm.
