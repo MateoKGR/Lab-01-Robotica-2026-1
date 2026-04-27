@@ -109,17 +109,16 @@ Entrelazamiento De señales :
 ![Smart](images/Entrelazamiento.jpeg)
 
 Forward :
+
 ![PropiedadesF](images/PropiedadesF.jpeg)
 
 ![Ford.jpeg](images/Ford.jpeg)
 
 BackWard :
 
-
-
 ![PropiedadesB](images/PropiedadesB.jpeg)
 
-![Back](images/PropiedadesF.jpeg)
+![Back](images/Back.jpeg)
 
 
 
@@ -133,7 +132,7 @@ A continuación el plano de planta en el laboratorio
 Por último el video final de la implementación completa
 ![Descargar video de implementación final](videos/demostracionfinal.mp4)
 Hacer click en la imagen para ver el video
-![[Ver video de implementación final](images/miniaturavideofinal.png)](https://drive.google.com/file/d/1kKiyHdp7_Y21EuEeG2vPirhTzsbhvJkJ/view?usp=sharing)
+![![Ver video de implementación final](images/miniaturavideofinal.png)](https://drive.google.com/file/d/1kKiyHdp7_Y21EuEeG2vPirhTzsbhvJkJ/view?usp=sharing)
 
 A continuación se puede ver en mejor detalle el dibujo final.
 ![Dibujo Final](images/dibujofinal.png)
