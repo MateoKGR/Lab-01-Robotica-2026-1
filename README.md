@@ -78,9 +78,9 @@ Una vez configurada la herramienta y el posicionado el workobject en el lugar qu
 ![Targets](images/paths.png)
 
 
-Configurados los Targets, se crearon los Paths entre los Targets, es decir, los caminos que debía seguir el robot para hacer el dibujo. Aquí es importante resaltar la importancia de crear bien los Targets, pues se debía alzar el brazo cada vez que se deseaba alcanzar una posición diferente dentro del workobject, de otra manera se pintarían lineas indeseadas. También se tuvo que utilizar diferentes comandos para hacer las lineas curvas o circulos, la instrucción MoveJ realiza desplazamientos rápidos por trayectorias curvas entre puntos mediante el movimiento coordinado de las articulaciones; MoveL mueve la herramienta en línea recta garantizando precisión en trayectorias como líneas o figuras; y MoveC permite describir trayectorias circulares o arcos suaves entre dos posiciones intermedias, Se creo un path diferente para cada letra y para cada detalle del logo para simplificar la solución de errores ademas se creo un borde en el pastel para asemejar el dibujo a un cuadro, despues se comentaria esta linea ya que seria muy riesgoso para la herramienta debido a su cercania con difernetes topes del WorkObject, a continuacón se presentas los diferentes pathas con la poscion de home y mantenimiento : 
+Configurados los Targets, se crearon los Paths entre los Targets, es decir, los caminos que debía seguir el robot para hacer el dibujo. Aquí es importante resaltar la importancia de crear bien los Targets, pues se debía alzar el brazo cada vez que se deseaba alcanzar una posición diferente dentro del workobject, de otra manera se pintarían lineas indeseadas. También se tuvo que utilizar diferentes comandos para hacer las lineas curvas o circulos, la instrucción MoveJ realiza desplazamientos rápidos por trayectorias curvas entre puntos mediante el movimiento coordinado de las articulaciones; MoveL mueve la herramienta en línea recta garantizando precisión en trayectorias como líneas o figuras; y MoveC permite describir trayectorias circulares o arcos suaves entre dos posiciones intermedias, Se creo un path diferente para cada letra y para cada detalle del logo para simplificar la solución de errores ademas se creo un borde en el pastel para asemejar el dibujo a un cuadro, despues se comentaria esta linea ya que seria muy riesgoso para la herramienta debido a su cercania con difernetes topes del WorkObject, a continuacón se presentas los diferentes paths con  las tres posiciones, home, mantenimiento y escritura
 
-![Targets & Paths creados](images/paths.png)
+![Targets & Paths creados](images/planoplanta.png)
 
 En la imagen se observan todos los sistemas coordenados (orientados en la misma dirección) de los Targets creados junto con los Paths que debía seguir el robot (las líneas amarillas). 
 
@@ -89,7 +89,7 @@ Una vez hechos los Paths y los Targets se sincronizó la estación con el códig
 A continuación el diagrama de flujo del código final.
 ![Diagrama de flujo](docs/images/diagrama/diagrama_flujo.jpg)
 
-A continuación el plano de planta en el programa Robot Studio donde se evidencian las tres posiciones, home, mantenimiento y escritura
+
 
 ![Diagrama de flujo](images/planoplanta.png)
 
