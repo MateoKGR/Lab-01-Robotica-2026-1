@@ -47,7 +47,7 @@ Planos de herramienta y planta que también se encuentran en este repositorio :
 Foto de la herramienta fisica montada en el robot :
 
 <p align="center">
-   <img src="images/herramientarobot.jpeg" alt="" width="700">
+   <img src="images/herramientarobot.jpeg" alt="" width="500">
 </p>
 
 
