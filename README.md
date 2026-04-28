@@ -198,7 +198,9 @@ Hacer click en la imagen para ver el video
 
 <p align="center">
   <b>
-    Video de implementación Final</b><br>
+    Video de implementación Final
+    
+  </b><br>
   <a href="https://drive.google.com/file/d/1kKiyHdp7_Y21EuEeG2vPirhTzsbhvJkJ/view?usp=sharing">
     <img src="images/miniaturavideofinal.png" alt="Ver video de implementación" width="600">
   </a>
