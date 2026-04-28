@@ -65,7 +65,7 @@ A continuación la foto de la herramienta con nombre "merequetengue_v2" en la pa
 Durante la calibración del workobject, tuvimos un pequeño percanse con la herramienta, pues nos quedó mal la calibración con un error demasiado grande y rompimos la herramienta. A continuación la prueba de la herramienta rota :
 
 <p align="center">
-  <img src="images/herramientarota.png" alt="[Herramienta rota" width="800">
+  <img src="images/herramientarota.png" alt="[Herramienta rota" width="300">
 </p>
 
 ## Simulación
@@ -73,7 +73,7 @@ Durante la calibración del workobject, tuvimos un pequeño percanse con la herr
 Respecto al manejo de Robot Studio, tuvimos que comenzar por modelar para despues importar los modelos CAD tanto de la herramienta (es decir nuestro tool) como del Workobject (el pastel) en inventor, utilimos una caja de madera de 20 cm de ancho, 20cm de largo y 9 cm de alto con un cristal en donde se iban grabar los nombres y logo con el marcador, Se muestra a continuacion nuestro workobject en fisico : 
 
 <p align="center">
-  <img src="images/Caja_Fisica.jpeg" alt="Caja_Fisica" width="800">  
+  <img src="images/Caja_Fisica.jpeg" alt="Caja_Fisica" width="300">  
 </p>
 
 Es importante mencionar que diseñamos nuestros nombres y el logo con curvas relativamente sencillas tambien en el sofware Inventor para despues recrearlas en Robot Studio , Nos guiamos por el primer nombre de cada integrando del grupo y de logo un personaje principal de un videojuego famoso (Sans) como vemos a continuación:
@@ -88,10 +88,10 @@ Dando Como Resultado final el siguiente WorkObject Listo para exportar a RobotSt
   <img src="images/ResultadoFinal.jpeg" alt="ResultadoFinal" width="800">
 </p>
 
-Ya en el RobotEstudio se observa de la siguiente manera tanto la herramienta como nuestro WorkObject ademas de importar una banda para hacer la simulación mas coincidente con la realidad:
+Ya en el RobotEstudio se observa de la siguiente manera tanto la herramienta como nuestro WorkObject ademas de importar una banda para hacer la simulación mas coincidente con la realidad :
 
 <p align="center">
-  <img src="images/Herramienta.jpeg" alt="Herramienta" width="800">
+  <img src="images/Herramienta.jpeg" alt="Herramienta" width="400">
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ Para la simulación se realizaron Dos SmartComponents para simular como la banda
 Dos SmartsComponents : 
 
 <p align="center">
-  <img src="images/Smart.jpeg" alt="Smart" width="800">
+  <img src="images/Smart.jpeg" alt="Smart" width="250">
 </p>
 
 Entrelazamiento De señales :
@@ -174,7 +174,7 @@ Entrelazamiento De señales :
 Forward :
 
 <p align="center">
-  <img src="images/PropiedadesF.jpeg" alt="PropiedadesF" width="800">
+  <img src="images/PropiedadesF.jpeg" alt="PropiedadesF" width="250">
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@ Forward :
 BackWard :
 
 <p align="center">
-  <img src="images/PropiedadesB.jpeg" alt="PropiedadesB" width="800">
+  <img src="images/PropiedadesB.jpeg" alt="PropiedadesB" width="250">
 </p>
 
 <p align="center">
@@ -220,7 +220,7 @@ Hacer click en la imagen para ver el video
 A continuación se puede ver en mejor detalle el dibujo final Obtenido : 
 
 <p align="center">
-  <img src="images/dibujofinal.png" alt="dibujofinal" width="800">
+  <img src="images/dibujofinal.png" alt="dibujofinal" width="300">
 </p>
 
 
