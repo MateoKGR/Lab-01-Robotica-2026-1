@@ -11,12 +11,13 @@
 
 <h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro<br></h2>
 
-<h4> <br>Juan Andrés Moreno Benavides [jumorenobe@unal.co] (Jumorenobe) <br>Mateo Ramos Cujer [mramoscu@unal.edu.co] (MateoKGR) <br></h4>
-
 </div>
 
+# Integrantes
+1. Juan Andrés Moreno Benavides [jumorenobe@unal.co](Jumorenobe)
+2. Mateo Ramos Cujer [mramoscu@unal.edu.co](MateoKGR)
 
-Indice:
+# # Indice:
 1. [Diseño de la herramienta](#diseño-de-la-herramienta)
 2. [Calibración](#calibración)
 3. [Simulación](#simulación)
