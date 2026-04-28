@@ -9,10 +9,9 @@
 
 <h1>Informe Laboratorio # 1</h1>
 
-<h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro</h2>
+<h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro<br></h2>
 
-<h4> <br>Juan Andrés Moreno Benavides <br> <br>  [jumorenobe@unal.co] <br> (Jumorenobe) <br>
-     <br>Mateo Ramos Cujer <br> <br> [mramoscu@unal.edu.co](MateoKGR)<br></h4>
+<h4> <br>Juan Andrés Moreno Benavides [jumorenobe@unal.co] (Jumorenobe) <br>Mateo Ramos Cujer [mramoscu@unal.edu.co] (MateoKGR) <br></h4>
 
 </div>
 
