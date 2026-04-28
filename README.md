@@ -17,7 +17,7 @@
 1. Juan Andrés Moreno Benavides [jumorenobe@unal.co](Jumorenobe)
 2. Mateo Ramos Cujer [mramoscu@unal.edu.co](MateoKGR)
 
-# # Indice:
+# Indice:
 1. [Diseño de la herramienta](#diseño-de-la-herramienta)
 2. [Calibración](#calibración)
 3. [Simulación](#simulación)
