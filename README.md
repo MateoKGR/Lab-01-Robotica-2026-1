@@ -1,4 +1,12 @@
-# Lab-01-Robotica-2026-1
+<div align="center">
+<picture>
+    <source srcset="https://imgur.com/5bYAzsb.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://imgur.com/Os03JoE.png" media="(prefers-color-scheme: light)">
+    <img src="https://imgur.com/Os03JoE.png" alt="Escudo UNAL" width="350px">
+</picture>
+
+<h3>Curso de Robótica 2026-I</h3>
+
 
 # Integrantes
 1. Juan Andrés Moreno Benavides [jumorenobe@unal.co](Jumorenobe)
