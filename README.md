@@ -137,7 +137,13 @@ A continuación Se puedes Descargas y/0 ver simulación en Robot Studio :
 Hacer click en la imagen para ver el video
 
 <p align="center">
-  <b>Video de Simulación Final</b><br>
+  <b>
+    Video de Simulación Final
+    
+  </b><br>
+</p>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/1iKCL7Am2xYt6DjFr-hjv4zW74DocM8NU/view?usp=sharing">
     <img src="images/videosimu.png" alt="Ver video de implementación" width="600">
   </a>
