@@ -201,10 +201,14 @@ Hacer click en la imagen para ver el video
     Video de implementación Final
     
   </b><br>
+</p>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/1kKiyHdp7_Y21EuEeG2vPirhTzsbhvJkJ/view?usp=sharing">
     <img src="images/miniaturavideofinal.png" alt="Ver video de implementación" width="600">
   </a>
 </p>
+
 
 
 A continuación se puede ver en mejor detalle el dibujo final Obtenido : 
