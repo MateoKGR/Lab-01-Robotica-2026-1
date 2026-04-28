@@ -27,9 +27,10 @@ A continuación una foto del modelo final desarrollado en inventor con mejor aju
 ![Screenshot Herramienta](images/herramientafusion.png)
 ![Screenshot Herramientas](images/PiezaInventor.jpeg)
 
-Plano de la herramienta que también se encuentran en este repositorio
+Planos de herramienta y planta que también se encuentran en este repositorio
 ![Screenshot Plano Herramienta](planos/planocuerpoherramienta.png)
 ![Screenshot Plano Herramienta](planos/planotapaherramienta.png)
+![Screenshot Plano Herramienta](planos/PlanoPlanta.png)
 
 Foto de la herramienta montada en el robot.
 
