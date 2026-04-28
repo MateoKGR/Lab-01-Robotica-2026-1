@@ -7,12 +7,14 @@
 
 <h3>Curso de Robótica 2026-I</h3>
 
+<h1>Compilado de Informes de Laboratorio de Robótica</h1>
 
-# Integrantes
-1. Juan Andrés Moreno Benavides [jumorenobe@unal.co](Jumorenobe)
-2. Mateo Ramos Cujer [mramoscu@unal.edu.co](MateoKGR)
+<h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro</h2>
 
-# Informe
+<h4> Juan Andrés Moreno Benavides [jumorenobe@unal.co](Jumorenobe) <br>
+    Mateo Ramos Cujer [mramoscu@unal.edu.co](MateoKGR)<br></h4>
+
+# Informe Laboratorio #1
 
 Indice:
 1. [Diseño de la herramienta](#diseño-de-la-herramienta)
