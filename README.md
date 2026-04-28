@@ -25,7 +25,7 @@ En el primer modelo que desarrollamos, la rosca no funcionaba muy bien debido a 
 
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
 <p align="center">
-  <img src="images/herramientafusion.png" alt="Screenshot Herramienta" width="600">
+  <img src="images/herramientafusion.png" alt="Screenshot Herramienta" width="800">
 </p>
 <p align="center">
    <img src="images/PiezaInventor.jpeg" alt="Screenshot Herramienta" width="600">
