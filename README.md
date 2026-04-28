@@ -28,25 +28,29 @@ A continuación una foto del modelo final desarrollado en inventor con mejor aju
   <img src="images/herramientafusion.png" alt="Screenshot Herramienta" width="800">
 </p>
 <p align="center">
-   <img src="images/PiezaInventor.jpeg" alt="Screenshot Herramienta" width="600">
+   <img src="images/PiezaInventor.jpeg" alt="Screenshot Herramienta" width="800">
 </p>
 
 Planos de herramienta y planta que también se encuentran en este repositorio :
 
 <p align="center">
-   <img src="planos/planocuerpoherramienta.png" alt="Screenshot Plano Herramienta" width="600">
+   <img src="planos/planocuerpoherramienta.png" alt="Screenshot Plano Herramienta" width="800">
 </p>
 <p align="center">
-   <img src="planos/planotapaherramienta.png" alt="[Screenshot Plano Herramienta" width="600">
+   <img src="planos/planotapaherramienta.png" alt="[Screenshot Plano Herramienta" width="800">
 </p>
 <p align="center">
-   <img src="planos/PlanoPlanta.png" alt="" width="600">
+   <img src="planos/PlanoPlanta.png" alt="" width="800">
 </p>
 
 
-Foto de la herramienta montada en el robot.
+Foto de la herramienta fisica montada en el robot :
 
-![Herramienta Montada](images/herramientarobot.jpeg)
+<p align="center">
+   <img src="planos/herramientarobot.jpeg" alt="" width="700">
+</p>
+
+
 
 ## Calibración
 El proceso de calibración del robot con la herramienta nos tomó varias sesiones de práctica libre, inicialmente, nos daba un error de aproximadamente 15 o 20 milimetros, lo cual es demasiado teniendo en cuenta la toleracia de nuestra herramienta, sin embargo, en la tercera sesión ya con la práctica adquirida logramos tener un error de 7.9mm aproximadamente, lo cual es acorde a nuestra toleracia física de 10mm de nuestra herramienta mencionada en la sección anterior. 
