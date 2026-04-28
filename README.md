@@ -30,10 +30,17 @@ A continuación una foto del modelo final desarrollado en inventor con mejor aju
 <p align="center">
    <img src="images/PiezaInventor.jpeg" alt="Screenshot Herramienta" width="600">
 </p>
-Planos de herramienta y planta que también se encuentran en este repositorio
-![Screenshot Plano Herramienta](planos/planocuerpoherramienta.png)
-![Screenshot Plano Herramienta](planos/planotapaherramienta.png)
-![Screenshot Plano Herramienta](planos/PlanoPlanta.png)
+Planos de herramienta y planta que también se encuentran en este repositorio :
+<p align="center">
+   <img src="images/planocuerpoherramienta.png" alt="Screenshot Plano Herramienta" width="600">
+</p>
+<p align="center">
+   <img src="images/planotapaherramienta.png" alt="[Screenshot Plano Herramienta" width="600">
+</p>
+<p align="center">
+   <img src="images/PlanoPlanta.png" alt="" width="600">
+</p>
+
 
 Foto de la herramienta montada en el robot.
 
