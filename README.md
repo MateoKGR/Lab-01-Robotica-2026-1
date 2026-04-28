@@ -28,7 +28,7 @@ A continuación una foto del modelo final desarrollado en inventor con mejor aju
   <img src="images/herramientafusion.png" alt="Screenshot Herramienta" width="600">
 </p>
 <p align="center">
-![Screenshot Herramientas](images/PiezaInventor.jpeg)
+   <img src="images/PiezaInventor.jpeg" alt="Screenshot Herramienta" width="600">
 </p>
 Planos de herramienta y planta que también se encuentran en este repositorio
 ![Screenshot Plano Herramienta](planos/planocuerpoherramienta.png)
