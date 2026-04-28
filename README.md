@@ -24,9 +24,12 @@ Tuvimos en cuenta una toleracia de aproximadamente 10mm en la punta, y añadimos
 En el primer modelo que desarrollamos, la rosca no funcionaba muy bien debido a las tolerancias utilizadas por lo que fue necesario rediseñarla haciendola más resistente y con mejor ajuste.
 
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
+<p align="center">
 ![Screenshot Herramienta](images/herramientafusion.png)
+</p>
+<p align="center">
 ![Screenshot Herramientas](images/PiezaInventor.jpeg)
-
+</p>
 Planos de herramienta y planta que también se encuentran en este repositorio
 ![Screenshot Plano Herramienta](planos/planocuerpoherramienta.png)
 ![Screenshot Plano Herramienta](planos/planotapaherramienta.png)
